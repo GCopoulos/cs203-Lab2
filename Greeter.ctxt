@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Greeter
+comment0.text=\r\n\ A\ simple\ Greeter\ class\ with\ a\ GoodBye\ and\ setName\ methods.\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ v1\r\n\ \r\n
+comment1.params=
+comment1.target=Greeter()
+comment1.text=\r\n\ An\ empty\ constructor\ for\ Greeter\ objects.\r\n\ \r\n\ @param\ none\r\n\ @return\ None,\ just\ creates\ a\ Greeter\ object.\r\n
+comment2.params=s1
+comment2.target=Greeter(java.lang.String)
+comment2.text=\r\n\ An\ empty\ constructor\ for\ Greeter\ objects.\r\n\ \r\n\ @param\ s1\ \ \ \ A\ String\ object\ which\ sets\ the\ name\ of\ this\ Greeter.\r\n\ @return\ None,\ just\ creates\ a\ Greeter\ object.\r\n
+comment3.params=
+comment3.target=void\ sayHello()
+comment3.text=\r\n\ A\ hello\ method\ that\ greets\ the\ user.\r\n\ \r\n\ @param\ none\r\n\ @return\ no\ return\ value,\ just\ prints\ a\ hello\ message.\r\n
+comment4.params=
+comment4.target=void\ sayGoodbye()
+comment4.text=\r\n\ A\ goodbye\ method\ to\ send\ the\ user\ off.\r\n\ \r\n\ @param\ none\r\n\ @return\ no\ return\ value,\ just\ prints\ goodbye\r\n
+comment5.params=
+comment5.target=void\ saySanJose()
+comment5.text=\r\n\ A\ method\ which\ prints\ San\ Jose\ with\ a\ unicode\ character,\ meant\r\n\ to\ demonstrate\ a\ knowledge\ of\ unicode\ in\ Java.\r\n\ \r\n\ @param\ none\r\n\ @return\ no\ return\ value,\ just\ prints\ text\r\n
+comment6.params=s1
+comment6.target=void\ setName(java.lang.String)
+comment6.text=\r\n\ A\ method\ which\ sets\ the\ name\ field\ of\ this\ class\ to\ the\ input\ string.\r\n\ \r\n\ @param\ s1\ \ \ \ A\ String\ represented\ the\ desired\ new\ name.\r\n\ @return\ No\ return\ value,\ just\ changes\ Name\ field.\r\n
+comment7.params=other
+comment7.target=void\ swapNames(Greeter)
+comment7.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=8
